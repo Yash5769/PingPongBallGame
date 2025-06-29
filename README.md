@@ -38,8 +38,8 @@ HandTrackingPong/
     ├── Background.png         # Background image
     ├── gameOver.png           # Game over screen image
     ├── Ball.png               # Ball image (transparent)
-    ├── bat1.png               # Left bat (player 1)
-    ├── bat2.png               # Right bat (player 2)
+    ├── bat1.png               # Left bat 
+    ├── bat2.png               # Right bat 
     ├── bounce.wav             # Wall bounce sound
     ├── bat_hit.wav            # Bat hit sound
     ├── game_over.wav          # Game over sound
